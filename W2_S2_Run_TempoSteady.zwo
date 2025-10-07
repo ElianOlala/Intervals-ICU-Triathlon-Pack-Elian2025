@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workout_file>
+  <author>ChatGPT</author>
+  <name>Run – Seuil W2 – TempoSteady</name>
+  <description>Run Seuil_8sem Semaine 2 – TempoSteady. Intensités en % seuil.</description>
+  <sportType>run</sportType>
+  <tags>
+    <tag name="Intervals.icu"/>
+    <tag name="Triathlon"/>
+  </tags>
+  <workout>
+    <Ramp Duration="600" PowerLow="0.550" PowerHigh="0.700" />
+    <SteadyState Duration="1860" Power="0.900" />
+    <SteadyState Duration="480" Power="0.600" />
+  </workout>
+</workout_file>
